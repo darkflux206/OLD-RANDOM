@@ -5,4 +5,4 @@
 # pkg upgrade -y
 # git clone https://github.com/darkflux206/OLD-RANDOM.git
 # cd OLD-RANDOM
-# python oldrandom.py
+# python oldrandomm.py
